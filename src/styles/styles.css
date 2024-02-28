@@ -60,7 +60,7 @@
 .product-section {
   margin-top: 50px;
   font-weight: 600;
-  font-size: medium;
+  font-size: 14px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
