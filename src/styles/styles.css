@@ -200,7 +200,7 @@ hr {
     width: 100%;
   }
   .textt ul {
-    font-size: 14px;
+    font-size: 10px;
     text-align: justify;
   }
 
@@ -220,19 +220,22 @@ hr {
     width: 80%;
   }
   .product-section {
-    font-size: 12px;
+    font-size: 10px;
     text-align: center;
   }
   .discription {
     width: 95%;
     padding-left: 0;
-    font-size: 14px;
+    font-size: 10px;
   }
   .pdiscription {
-    font-size: 14px;
+    font-size: 10px;
     text-align: center;
   }
   .fsproducts {
+    font-size: 10px;
+  }
+  .bheader{
     font-size: 12px;
   }
 
@@ -240,6 +243,8 @@ hr {
     padding-left: 0;
     text-align: center;
     padding-right: 10px;
+    font-size: 10px;
+    font-size: 12px;
   }
 }
 @media (max-width: 768px) {
