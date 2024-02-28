@@ -1,4 +1,3 @@
-// src/components/ProductSection.js
 import React from 'react';
 import product from '../assets/3.png'
 

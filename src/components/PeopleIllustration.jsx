@@ -1,4 +1,3 @@
-// src/components/PeopleIllustration.js
 import React from 'react';
 import awardpresenting from '../assets/2.png';
 

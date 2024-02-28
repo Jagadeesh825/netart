@@ -1,6 +1,5 @@
-// src/App.js
 import React from 'react';
-import './styles/styles.css'; // Import your CSS file
+import './styles/styles.css'; 
 import AwardBanner from './components/AwardBanner';
 import AwardSection from './components/AwardSection';
 import PeopleIllustration from './components/PeopleIllustration';
