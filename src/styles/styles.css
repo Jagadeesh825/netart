@@ -243,8 +243,8 @@ hr {
     padding-left: 0;
     text-align: center;
     padding-right: 10px;
-    font-size: 10px;
-    font-size: 12px;
+    font-size: 9px;
+    
   }
 }
 @media (max-width: 768px) {
